@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **akashdurai4274@gmail.com**
 
-- 📄 Know about my experiences [https://akashdurai-portfolio-2e6a.onrender.com/Akash_Durai.pdf](https://akashdurai-portfolio-2e6a.onrender.com/Akash_Durai.pdf)
+- 📄 Know about my experiences [https://akashdurai-portfolio-alnc.onrender.com/Akash_Durai.pdf](https://akashdurai-portfolio-alnc.onrender.com/Akash_Durai.pdf)
 
 - ⚡ Fun fact **Debugging life, one line at a time!**
 
