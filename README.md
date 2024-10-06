@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently Working in **Spring, Flutter, React**
 
-- 👨‍💻 My projects are available at [https://akashdurai-portfolio-2e6a.onrender.com/](https://akashdurai-portfolio-2e6a.onrender.com/)
+- 👨‍💻 My projects are available at [My Portfolio](https://akashdurai-portfolio-2e6a.onrender.com/)
 
 - 💬 Ask me about **Java, React, Flutter**
 
