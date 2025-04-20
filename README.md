@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashdurai4274&label=Profile%20views&color=0e75b6&style=flat" alt="akashdurai4274" /> </p>
 
-- 🌱 I’m currently Working in **Spring, Flutter, React**
+- 🌱 I’m currently Working in **Spring, MERN**
 
 - 👨‍💻 My projects are available at [My Portfolio](https://akashdurai-portfolio-alnc.onrender.com/)
 
-- 💬 Ask me about **Java, React, Flutter**
+- 💬 Ask me about **Java, MERN, Flutter Nest, MEVN**
 
 - 📫 How to reach me **akashdurai4274@gmail.com**
 
