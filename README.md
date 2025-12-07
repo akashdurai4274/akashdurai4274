@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently Working in **Spring, MERN**
 
-- 👨‍💻 My projects are available at [My Portfolio](https://akashdurai-portfolio-v3.verce/.app)
+- 👨‍💻 My projects are available at [My Portfolio](https://akashdurai-portfolio-v3.vercel.app)
 
 - 💬 Ask me about **Java, MERN, Flutter Nest, MEVN**
 
