@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently Working in **Spring, MERN**
 
-- 👨‍💻 My projects are available at [My Portfolio](https://akashdurai-portfolio-alnc.onrender.com/)
+- 👨‍💻 My projects are available at [My Portfolio](https://akashdurai-portfolio-v3.verce/.app)
 
 - 💬 Ask me about **Java, MERN, Flutter Nest, MEVN**
 
 - 📫 How to reach me **akashdurai4274@gmail.com**
 
-- 📄 Know about my experiences [My PortFolio](https://akashdurai-portfolio-alnc.onrender.com/Akash_Durai.pdf)
+- 📄 Know about my experiences [My PortFolio](https://akashdurai-portfolio-v3.vercel.app/Akash_Durai.pdf)
 
 - ⚡ Fun fact **Debugging life, one line at a time!**
 
